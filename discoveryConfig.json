@@ -1,5 +1,6 @@
 {
-  "defaultLocale": "de",
-  "APIbase": "https://demo-dev.openatlas.eu",
-  "imageDomains": ["openatlas.eu"]
+  "defaultLocale": "en",
+  "APIbase": "mobyz.openatlas.eu",
+  "imageDomains": ["openatlas.eu"],
+  "title": "Moving Byzantium"
 }
